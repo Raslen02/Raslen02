@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Raslen02
-- 👀 I’m interested in coding (am new here too )
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything can help me for improve my skills 
+# 👋 Hi, I’m Raslen Hermi (@Raslen02)
 
-<!---
-Raslen02/Raslen02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Recent graduate in **Network & Systems Engineering**  
+💻 Interested in **Cybersecurity, Cloud Computing, and IT Infrastructure**  
+🐧 Passionate about **Linux, Networking, and Automation**  
+🌱 Currently learning **Python for automation and scripting**  
+🤝 Looking to collaborate on projects related to **networking, cloud, and system administration**  
+
+---
+
+### 🛠 Skills & Tools
+- **Networking:** Cisco, Fortinet, OSPF, VLANs, Firewalls  
+- **Systems:** Linux (Ubuntu, CentOS), Windows Server, Virtualization (VMware, Proxmox)  
+- **Cloud:** AWS, Azure (basic deployment & management)  
+- **Programming & Scripting:** Python, Bash, PowerShell  
+- **Security:** IDS/IPS concepts, Firewall rules, Access control  
+
+---
+
+### 📫 How to reach me
+- LinkedIn: [linkedin.com/in/raslen-hermi](https://www.linkedin.com/in/raslen-hermi)  
+- Email: hermiraslen011@gmail.com  
